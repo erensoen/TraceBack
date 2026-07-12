@@ -37,7 +37,7 @@ Make sure you have Python 3.10+ installed on your system.
 
 ```bash
 # Clone the repository
-git clone [https://github.com/yourusername/TraceBack.git](https://github.com/yourusername/TraceBack.git)
+git clone [https://github.com/erensoen/TraceBack.git](https://github.com/erensoen/TraceBack.git)
 
 # Navigate into the project directory
 cd TraceBack

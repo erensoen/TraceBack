@@ -15,7 +15,7 @@
 
 ## 🎯 Why TraceBack? (Öne Çıkan Özellikler)
 
-> 💡 **Zero Configuration, Maximum Anonymity:** 
+> 💡 **Zero Configuration, Maximum Anonymity:**  
 > TraceBack **does not require any API keys, tokens, or external proxies**. It operates completely out-of-the-box, ensuring 100% anonymous and stealthy intelligence gathering without leaving a trace or triggering target platform alerts.
 
 ---
@@ -41,7 +41,7 @@
 
 ```bash
 # Clone the intelligence engine
-git clone [https://github.com/erensoen/TraceBack.git](https://github.com/erensoen/TraceBack.git)
+git clone https://github.com/erensoen/TraceBack.git
 
 # Enter the project directory
 cd TraceBack
@@ -67,19 +67,62 @@ python main.py
 
 ## 🌐 Supported Modules & Platforms
 
-### 📱 Social & Media Platforms
-- [x] **Instagram** (Anti-Scraping Bypass)
-- [x] **TikTok** (Dynamic DOM Audit)
-- [x] **Twitter / X** (Stealth Feed & Identity Mapping)
-- [x] **YouTube** (Channel & Metadata Analysis)
-- [x] **Spotify** (Deep JSON-LD Parsing)
-- [x] **Steam** (Community & Connected Account Audit)
-- [x] **Faceit** (Competitive Profile & Alias Tracking)
+TraceBack targets the core vectors of an individual's digital footprint across 19 specialized operational categories:
 
-### 💬 Forums & Communities (Coming Soon)
-- [ ] Reddit
-- [ ] Popular tech and cyber security discussion boards
-- [ ] Dynamic Membership & Auth-walled Forums
+### 📱 Core Social & Media Plugins
+
+- [x] Instagram (Anti-Scraping Bypass & Bio Metadata Harvester)
+- [x] TikTok (Dynamic DOM Audit & Account Mapping)
+- [x] Twitter / X (Stealth Feed & Connected Alias Mapping)
+- [x] YouTube (Channel Metadata & Community Post Extraction)
+
+### 🎮 Gaming & Community Matrix
+
+- [x] Steam (Community Profiles & Deep Linked Social Account Auditor)
+- [x] Faceit (Competitive Profile Alias Tracking & Connected Steam ID Elicitation)
+
+### 🎧 Audio & Media Streaming Nodes
+
+- [x] Spotify (Deep JSON-LD Parsing & Shared Playlist Leak Analysis)
+- [ ] Global & Local Streams (SoundCloud, Last.fm, Deezer, Bandcamp, Fizy, Tidal)
+
+### 💬 Domestic & Global Discussion Boards
+
+- [ ] Yerel Forum Ağları (DonanımHaber, R10.net, Ekşi Sözlük, Technopat, ShiftDelete, THT, WMAracı, Turkmmo)
+- [ ] Global Boards (Reddit, Quora, 4chan, StackOverflow, XDA, BlackHatWorld, HackForums, BreachForums, KiwiFarms)
+
+### 🔞 Exclusive / NSFW Risk Verification
+
+- [ ] Adult OSINT Vector (+18 Websites)
+
+### 🔍 Search Engine Intelligence & Recon
+
+- [ ] Automated Dorking Core (Advanced query structures for Google, DuckDuckGo, Bing, Yandex, Yahoo, Baidu)
+
+### 💻 Developer Workspaces & Repositories
+
+- [ ] Code Repositories (GitHub, GitLab, Bitbucket, CodePen, Replit, Docker Hub)
+- [ ] Professional Networks (LinkedIn, Corporate Bug Bounty Handles like HackerOne & Bugcrowd)
+
+### 💰 Web3 FinTech & Blockchain Nodes
+
+- [ ] Ledger & Asset Auditing (Bitcoin Wallet Verification, Ethereum Transactions, OpenSea NFT Profiles, Etherscan, Solscan)
+
+### 📦 Commercial Footprints & E-Commerce
+
+- [ ] Marketplace Footprints (Amazon Wishlists, eBay Sellers, AliExpress Reviews, Shopify Nodes)
+- [ ] Local Commercial Hubs (Sahibinden Classifieds, Letgo, Dolap, Trendyol, Hepsiburada, N11)
+
+### 📁 Leaked Pastes & Breach Intelligence
+
+- [ ] Exposed Text Repositories (Pastebin, Ghostbin, Rentry, Paste.ee, JustPaste.it, Hastebin)
+- [ ] Credential Leak Auditing (HaveIBeenPwned Matrix, LeakCheck Logs, DeHashed Data, IntelX)
+
+### ☁️ Archival Recon & Cloud Infrastructure
+
+- [ ] Cloud Storage Traces (Mega.nz Public Shares, Scribd Documents, SlideShare Presentations, Dropbox Paths, Yandex Disk)
+- [ ] Historical Internet Snapshots (Wayback Machine Deep Parsing, Archive.is Time-Travel Audits, Google Cache Nodes)
+- [ ] Academic & Corporate Registries (ResearchGate, Academia.edu, ORCID, YÖK Tez, Crunchbase, OpenCorporates)
 
 ---
 
@@ -87,9 +130,9 @@ python main.py
 
 - [x] High-Speed Asynchronous Extraction Architecture
 - [x] Stealth Human Interaction Emulation Engine
-- [ ] Phase 2: Deep-Web Discussion Boards & Breached Forums Integration
+- [x] Structural Integration of Massive Global/Domestic Forums & Specialized Leaks Matrix
+- [x] Dynamic Simetric Status HUD Execution Environment
 - [ ] Phase 3: Expansion of Supported Social Media & Dynamic Membership Networks
-- [ ] Phase 4: Non-blocking Dynamic Execution Metrics (Progress HUD)
 - [ ] Phase 5: Multi-Vector Queries (Targeted Email & Communication Node Hunting)
 - [ ] Phase 6: Global Localization Package [TR] / [EN]
 
@@ -97,6 +140,6 @@ python main.py
 
 ## 📜 System License & Legal
 
-This framework is protected under the **AGPL-3.0 License**.
+This framework is protected under the AGPL-3.0 License.
 
-> **Disclaimer:** TraceBack is strictly intended for authorized digital footprint audits, defensive security research, and academic intelligence compilation. The architect accepts absolutely no liability for infrastructure misuse or terms of service violations.
+**Disclaimer:** TraceBack is strictly intended for authorized digital footprint audits, defensive security research, and academic intelligence compilation. The architect accepts absolutely no liability for infrastructure misuse or terms of service violations.

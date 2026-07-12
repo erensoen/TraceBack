@@ -29,6 +29,33 @@
 
 ---
 
+## 📊 Framework Scope & Coverage (Kapsam ve İstatistikler)
+
+> 📈 **Massive Target Architecture:** TraceBack is engineered to deploy an expansive intelligence dragnet across **19 distinct vertical categories**, systematically mapping and auditing over **274+ unique, high-traffic target platforms** concurrently.
+
+The core matrix distributes its tracking nodes across the following operational domains:
+* 🌐 **Global Forum Infrastructure:** 65 Major international discussion boards
+* 🇹🇷 **Domestic Forum Networks:** 49 High-impact regional communities
+* 📱 **Social Media & Gaming Matrix:** 7 Tier-1 mainstream & gaming nodes
+* 📝 **Blogs, Portfolios & Social Webs:** 18 Professional & publishing networks
+* 🛍️ **E-Commerce & Commercial Hubs:** 14 Commercial marketplaces & review registries
+* 💼 **Corporate Registries & Freelance Hubs:** 12 Enterprise databases & talent networks
+* ☁️ **Cloud Storage & Document Repositories:** 9 Public file sharing & document vectors
+* 🛠️ **Developer Workspaces & Repos:** 9 Code deployment and security platforms
+* 🔒 **Exclusive / NSFW Risk Matrix:** 10 Adult entertainment & subscription systems
+* 💬 **Messaging Handles & Communication:** 9 Secure chat & communication vectors
+* 🗺️ **Geolocational, Travel & Lifestyle:** 8 Mapping, travel, and route tracking nodes
+* 💘 **Dating & Romance Applications:** 8 Global relationship & flört networks
+* 🎵 **Audio & Music Streaming Services:** 8 Digital audio & distribution networks
+* 🪙 **Web3 Ledger & Crypto Wallets:** 7 Blockchain transaction & NFT nodes
+* 📄 **Exposed Pastes & Text Repositories:** 7 Leak and text dump vectors
+* 🌐 **DNS Infrastructure & Asset Recon:** 7 Target asset & server footprinting nodes
+* 🛑 **Breach Intelligence Databases:** 6 Massive historic credential leak registries
+* 🔍 **Search Engine Dorking Cores:** 6 Automated dorking and indexing engines
+* ⏳ **Archival Time-Travel Engines:** 4 Digital history & cache indexing archives
+
+---
+
 ## 📸 Demo & Terminal Interface
 
 <p align="center">

@@ -13,20 +13,27 @@
 
 ---
 
-## 📸 Demo & Terminal Interface
+## 🎯 Why TraceBack? (Öne Çıkan Özellikler)
 
-<p align="center">
-  <img src="traceback_terminal.png" alt="TraceBack Core Engine Interface" width="90%">
-</p>
+> 💡 **Zero Configuration, Maximum Anonymity:** 
+> TraceBack **does not require any API keys, tokens, or external proxies**. It operates completely out-of-the-box, ensuring 100% anonymous and stealthy intelligence gathering without leaving a trace or triggering target platform alerts.
 
 ---
 
 ## ⚡ Core Capabilities (Gelişmiş Yetenekler)
 
-*   🚀 **Parallelized Async Core:** Executes lightning-fast, multi-threaded node routing to audit hundreds of digital platforms simultaneously in milliseconds.
-*   🛡️ **Behavioral Identity Cloaking:** Employs organic transaction mimicking to seamlessly bypass strict cloud firewalls, anti-bot perimeters, and tracking grids without trigger alerts.
-*   📍 **Deep Metadata Extraction:** Penetrates complex interface layers to harvest micro-intelligence data points, including regional location variables, structural biometrics, and hidden account links.
-*   🎭 **Full Spectrum SPA Execution:** Seamlessly processes modern reactive interfaces, dynamic runtime environments, and single-page application systems where traditional scanners completely fail.
+* 🚀 **Parallelized Async Core:** Executes lightning-fast, multi-threaded node routing to audit hundreds of digital platforms simultaneously in milliseconds.
+* 🛡️ **Behavioral Identity Cloaking:** Employs organic transaction mimicking to seamlessly bypass strict cloud firewalls, anti-bot perimeters, and tracking grids without triggering alerts.
+* 📍 **Deep Metadata Extraction:** Penetrates complex interface layers to harvest micro-intelligence data points, including regional location variables, structural biometrics, and hidden account links.
+* 🎭 **Full Spectrum SPA Execution:** Seamlessly processes modern reactive interfaces, dynamic runtime environments, and single-page application systems where traditional scanners completely fail.
+
+---
+
+## 📸 Demo & Terminal Interface
+
+<p align="center">
+  <img src="ily/traceback_terminal.png" alt="TraceBack Core Engine Interface" width="90%">
+</p>
 
 ---
 
@@ -44,3 +51,52 @@ pip install -r requirements.txt
 
 # Deploy secure background runtime environment
 playwright install
+```
+
+---
+
+## 🚀 Execution (Kullanım)
+
+Launch the main interface directly through your security terminal:
+
+```bash
+python main.py
+```
+
+---
+
+## 🌐 Supported Modules & Platforms
+
+### 📱 Social & Media Platforms
+- [x] **Instagram** (Anti-Scraping Bypass)
+- [x] **TikTok** (Dynamic DOM Audit)
+- [x] **Twitter / X** (Stealth Feed & Identity Mapping)
+- [x] **YouTube** (Channel & Metadata Analysis)
+- [x] **Spotify** (Deep JSON-LD Parsing)
+- [x] **Steam** (Community & Connected Account Audit)
+- [x] **Faceit** (Competitive Profile & Alias Tracking)
+
+### 💬 Forums & Communities (Coming Soon)
+- [ ] Reddit
+- [ ] Popular tech and cyber security discussion boards
+- [ ] Dynamic Membership & Auth-walled Forums
+
+---
+
+## 🗺️ Project Roadmap
+
+- [x] High-Speed Asynchronous Extraction Architecture
+- [x] Stealth Human Interaction Emulation Engine
+- [ ] Phase 2: Deep-Web Discussion Boards & Breached Forums Integration
+- [ ] Phase 3: Expansion of Supported Social Media & Dynamic Membership Networks
+- [ ] Phase 4: Non-blocking Dynamic Execution Metrics (Progress HUD)
+- [ ] Phase 5: Multi-Vector Queries (Targeted Email & Communication Node Hunting)
+- [ ] Phase 6: Global Localization Package [TR] / [EN]
+
+---
+
+## 📜 System License & Legal
+
+This framework is protected under the **AGPL-3.0 License**.
+
+> **Disclaimer:** TraceBack is strictly intended for authorized digital footprint audits, defensive security research, and academic intelligence compilation. The architect accepts absolutely no liability for infrastructure misuse or terms of service violations.
